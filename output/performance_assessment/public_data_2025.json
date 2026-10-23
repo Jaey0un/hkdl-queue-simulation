@@ -250,5 +250,16 @@
       9,
       12
     ]
-  ]
+  ],
+  "verification_date": "2026-10-23",
+  "source_urls": [
+    "https://queue-times.com/parks/31/stats/2025",
+    "https://queue-times.com/parks/31/rides/12433/2025",
+    "https://queue-times.com/parks/31/rides/2840/2025",
+    "https://queue-times.com/parks/31/rides/2844/2025",
+    "https://queue-times.com/parks/31/rides/3822/2025",
+    "https://queue-times.com/parks/31/rides/4435/2025",
+    "https://queue-times.com/parks/31/rides/6415/2025"
+  ],
+  "aggregation_note": "Source annual means are separate from the unweighted means of the twelve monthly summaries. Published values are rounded. Hourly analysis uses 11:00-20:00."
 }
