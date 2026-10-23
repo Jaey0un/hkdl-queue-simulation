@@ -1,0 +1,9 @@
+,rows
+raw_all_parks,3509324
+portaventura_rows,2369821
+duplicate_ride_timestamp,0
+invalid_time_rows,65
+negative_guest_rows,209
+closed_rows,1080609
+guests_above_adjusted_capacity_plus_5pct,9937
+retained_flow_rows,1242095
